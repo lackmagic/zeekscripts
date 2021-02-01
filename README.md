@@ -1,5 +1,4 @@
 # zeekscripts
-its zeek scripts!
 
 - scriptlog.zeek 
 
