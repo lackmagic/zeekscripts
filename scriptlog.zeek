@@ -1,5 +1,5 @@
 # dlack 2021-01-01
-#
+# https://github.com/lackmagic/zeekscripts
 # This script adds a new log that captures part (or all) of script-type files.
 # Scripts may sometimes be moved around an environment post-compromise and used for things like:
 # executing other native tools and binaries, archiving files and directories for exfil, 
