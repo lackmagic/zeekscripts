@@ -1,5 +1,5 @@
 # dlack 2021-01-01
-#
+# https://github.com/lackmagic/zeekscripts
 # This script will highlight mismatches between mimetype and expected file extension, 
 # which can indicate obfuscation of tool transfer or data exfil. 
 # The included list of mimetypes/file exts is not comprehensive but should capture a lot 
